@@ -7,6 +7,8 @@
 .classpath
 .settings/
 
+.idea/
+
 # maven git ignore
 target/
 
